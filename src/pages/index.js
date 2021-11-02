@@ -19,6 +19,10 @@ const IndexPage = () => {
             Welcome to{' '}
             <code className='title_code'>Cloud Coffee</code>
           </h1>
+
+          <h3>
+            Our launch date is November, 21st, 2021!!
+          </h3>
       
 
           <p className='description'>
